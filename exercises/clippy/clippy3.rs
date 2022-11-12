@@ -5,7 +5,7 @@
 #[allow(unused_variables, unused_assignments)]
 fn main() {
     let my_option: Option<()> = None;
-    my_option.unwrap();
+    // my_option.unwrap();
     // if my_option.is_none() {
     //     // my_option.unwrap();
     // }
